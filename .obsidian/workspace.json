@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "770baefcfbc7c2bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c75da881e17e609",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cca2b89eaef246d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "¿Qué es AtomicOS?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "¿Qué es AtomicOS?"
+            }
+          },
+          {
+            "id": "77b677021a38a026",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "libros/RP-008307-DS-2-pico-datasheet.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "RP-008307-DS-2-pico-datasheet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9df0fbf19ef4bb2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "788661e367be4129",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da925bd14d0e7a32",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "c4dfba8dcfca1618",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "9b54385bd3f44835",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 370.5
+  },
+  "right": {
+    "id": "c560f7ff1a7a0043",
+    "type": "split",
+    "children": [
+      {
+        "id": "f76fc4c851128d4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8c02fb8d5183089",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "¿Qué es AtomicOS?.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "056907071cd5c2ae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "¿Qué es AtomicOS?.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "e7a434b3c80bf390",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "631935e19af26bc2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "3e2244a0bbf02b10",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "¿Qué es AtomicOS?.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "cca2b89eaef246d7",
+  "lastOpenFiles": [
+    "libros/RP-008276-DS-2-getting-started-with-pico.pdf",
+    "libros/RP-008307-DS-2-pico-datasheet.pdf",
+    "libros/RP-008371-DS-1-rp2040-datasheet.pdf",
+    "¿Qué es AtomicOS?.md",
+    "Enlaces y Documentación.md",
+    "Bienvenido.md",
+    "libros/RP-008355-DS-1-raspberry-pi-pico-python-sdk.pdf",
+    "libros/Sin confirmar 2294.crdownload",
+    "libros/Sin confirmar 593172.crdownload",
+    "libros/Sin confirmar 864548.crdownload",
+    "libros/RP-009085-KB-2-raspberry-pi-pico-c-sdk.pdf",
+    "libros/Sin confirmar 814709.crdownload",
+    "libros/Sin confirmar 222993.crdownload",
+    "Pasted image 20260830164330.png",
+    "Pasted image 20260830163717.png"
+  ]
+}
